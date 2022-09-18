@@ -871,6 +871,9 @@ section {
 /*--------------------------------------------------------------
 # Menu Section
 --------------------------------------------------------------*/
+.menu{
+    background: #fffaf3;
+  }
 .menu #menu-flters {
   padding: 0;
   margin: 0 auto 0 auto;
@@ -925,7 +928,7 @@ section {
 
 .menu .menu-content a {
   padding-right: 10px;
-  background: #fff;
+  /* background: #fff; */
   position: relative;
   z-index: 3;
   font-weight: 700;
@@ -933,7 +936,7 @@ section {
 }
 
 .menu .menu-content span {
-  background: #fff;
+  /* background: #fff; */
   position: relative;
   z-index: 3;
   padding: 0 10px;
@@ -1013,7 +1016,7 @@ section {
 /*--------------------------------------------------------------
 # Events
 --------------------------------------------------------------*/
-.events {
+/* .events {
   background: url(../img/events-bg.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
@@ -1102,12 +1105,12 @@ section {
 
 .events .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #ffb03b;
-}
+} */
 
 /*--------------------------------------------------------------
 # Book A Table
 --------------------------------------------------------------*/
-.book-a-table .php-email-form {
+/* .book-a-table .php-email-form {
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
   padding: 30px;
@@ -1194,7 +1197,7 @@ section {
 
 .book-a-table .php-email-form button[type=submit]:hover {
   background: #ffa012;
-}
+} */
 
 /*--------------------------------------------------------------
 # Gallery

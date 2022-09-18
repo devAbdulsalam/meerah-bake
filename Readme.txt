@@ -1,5 +1,5 @@
-Thanks for stoping
+Thanks for stoping by
 
 Website Name: Meerah bake
-Page URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
+Page URL: 
 Author: devAbdulsalam
